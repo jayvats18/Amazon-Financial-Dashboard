@@ -6,11 +6,6 @@ This project analyzes Amazon's financial performance using Microsoft Excel.
 
 The dashboard includes financial KPIs, trend analysis, and ratio analysis from 2015–2024.
 
-## Dashboard
-
-![Dashboard](dashboard.png)
-
-
 ## Tools Used
 
 - Microsoft Excel
